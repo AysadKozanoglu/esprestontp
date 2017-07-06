@@ -1,6 +1,10 @@
 # Espresto-ntp module for puppet 
 
 #### Installation
+in your modules: 
+git clone https://github.com/AysadKozanoglu/esprestontp.git
+
+or
 
 puppet module install esprestontp 
 
