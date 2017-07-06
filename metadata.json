@@ -1,0 +1,13 @@
+{
+  "name": "aysadk-esprestontp",
+  "version": "1.0.1",
+  "author": "espresto | Aysad Kozanoglu",
+  "summary": "simple ntp based on template",
+  "license": "GNU v3",
+  "source": "https://github.com/AysadKozanoglu/espresto-ntp_puppetModule",
+  "project_page": "https://github.com/AysadKozanoglu/espresto-ntp_puppetModule",
+  "issues_url": "https://github.com/AysadKozanoglu/espresto-ntp_puppetModule/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
